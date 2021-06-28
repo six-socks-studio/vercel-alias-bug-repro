@@ -1,0 +1,13 @@
+{
+  "name": "api",
+  "private": true,
+  "version": "0.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "module-alias": "^2.2.2"
+  },
+  "_moduleAliases": {
+    "~": "../"
+  }
+}
+  
